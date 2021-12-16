@@ -1,3 +1,6 @@
 export function App() {
-  return <h1>Hello Beach</h1>
+
+  throw new Error('Eita preula ');
+  
+  return <h1>Hello oi em inglesh</h1>
 }
